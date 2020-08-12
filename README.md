@@ -1,8 +1,5 @@
 # Plant_disease_detection_django
 
-
-
-
 <h2> <b> Abstract: </b> </h2>
 <br></br>
 Agriculture is the backbone of economy of Indian government. There is a requirement of a lot of production of crops to fulfill the need of Indian population. Because of
