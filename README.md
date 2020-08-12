@@ -49,9 +49,12 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
 <h1><b> Screenshots </b></h1>
 
+
 ![](screenshots/home.png "Home Page")
 
+
 ![](screenshots/choose_img.png "Choose Image")
+
 
 ![](screenshots/Output_img.png "Output of running manage.py")
 
