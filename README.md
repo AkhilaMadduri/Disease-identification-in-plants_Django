@@ -3,7 +3,8 @@
 
 
 
-<b> Abstract: </b>
+<h1> <b> Abstract: </b> </h1>
+<br></br>
 Agriculture is the backbone of economy of Indian government. There is a requirement of a lot of production of crops to fulfill the need of Indian population. Because of
 diseases, large amount of crop production is decreased. There are various types of diseases on the plant leaf that causes problem in development of crops. Human eyes are not so much stronger to see the leaf diseases so humans do not observe variation in the infected part of leaf. These diseases sometimes may not be visible to human eyes and they directly affecting to the crop. 
 
