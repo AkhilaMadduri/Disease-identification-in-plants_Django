@@ -35,7 +35,9 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
 3. (Optional) Create a virtual enviourment. Refer this tutorial to learn how to create a virtual enviourment: 
 
-https://www.youtube.com/watch?v=APOPm01BVrk If you create a virtual enviourment, make sure it is activated and you execute all commands from within the virtual enviournment. Skip this step if you are unsure about how it works.
+https://www.youtube.com/watch?v=APOPm01BVrk If you create a virtual enviourment, make sure it is activated and you execute all commands from within the virtual enviournment. 
+
+Skip this step if you are unsure about how it works.
   
 4. Install required packages:
 
