@@ -8,7 +8,7 @@ diseases, large amount of crop production is decreased. There are various types 
 <br></br>
 For this a farmer takes the image of a leaf and uploads it in a website that we have developed. Now the patterns of the uploaded image are compared with patterns available in dataset, which is almost accurate, resulting in identification of the plant disease. At starting stage, the disease can be easily identified.
 <br></br>
-<h2><b> Requirements </b></h2>
+<h2><b> Requirements: </b></h2>
 
 1.Python  
 
@@ -21,5 +21,9 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 5.PIL 
 
 6.Numpy 
+
+<h2><B> Steps to run the Application: </b></h2>
+<h4> <b> This application requires Python 3.6 </b> </h4>
+1.Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
   
 
