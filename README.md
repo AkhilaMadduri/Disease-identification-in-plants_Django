@@ -10,38 +10,43 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 <br></br>
 <h2><b> Requirements: </b></h2>
 
-1.Python  
+1. Python  
 
-2.Tensorflow
+2. Tensorflow
 
-3.Keras
+3. Keras
 
-4.Django 
+4. Django 
 
-5.PIL 
+5. PIL 
 
-6.Numpy 
+6. Numpy 
 
 <h2><B> Steps to run the Application: </b></h2>
 <h4> <b> This application requires Python 3.6 </b> </h4>
 
-1.Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
-git clone https://github.com/AkhilaMadduri/Plant_disease_detection_django.git
+1. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
-2.Download model from the following link and paste it in the \plant_diseases\plant_app folder:
-https://drive.google.com/file/d/1IJ_9kHXTRpW744ymq1V5L0pkv1TMJdwh/view?usp=sharing
+       'git clone https://github.com/AkhilaMadduri/Plant_disease_detection_django.git'
 
-3.(Optional) Create a virtual enviourment. Refer this tutorial to learn how to create a virtual enviourment: 
+2. Download model from the following link and paste it in the '\plant_diseases\plant_app folder':
+
+       'https://drive.google.com/file/d/1IJ_9kHXTRpW744ymq1V5L0pkv1TMJdwh/view?usp=sharing'
+
+3. (Optional) Create a virtual enviourment. Refer this tutorial to learn how to create a virtual enviourment: 
+
 https://www.youtube.com/watch?v=APOPm01BVrk If you create a virtual enviourment, make sure it is activated and you execute all commands from within the virtual enviournment. Skip this step if you are unsure about how it works.
   
-4.Install required packages:
-pip install -r req.txt
+4. Install required packages:
 
-5.Navigate to \plant_diseases directory and run the application with the following command:
-py manage.py runserver
+    'pip install -r req.txt'
 
-6.A link will appear in your command prompt. Copy this link and paste it in your browser, press enter.
+5. Navigate to '\plant_diseases' directory and run the application with the following command:
 
-7.Your application is running. Choose any infected image to get results.
+    'py manage.py runserver'
+
+6. A link will appear in your command prompt. Copy this link and paste it in your browser, press enter.
+
+7. Your application is running. Choose any infected image to get results.
 
 
