@@ -27,21 +27,21 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
 1. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
-       'git clone https://github.com/AkhilaMadduri/Plant_disease_detection_django.git'
+       git clone https://github.com/AkhilaMadduri/Plant_disease_detection_django.git
 
-2. Download model from the following link and paste it in the '\plant_diseases\plant_app' folder:
+2. Download model from the following link and paste it in the `\plant_diseases\plant_app` folder:
 
-       'https://drive.google.com/file/d/1IJ_9kHXTRpW744ymq1V5L0pkv1TMJdwh/view?usp=sharing'
+       https://drive.google.com/file/d/1IJ_9kHXTRpW744ymq1V5L0pkv1TMJdwh/view?usp=sharing
 
-3. (Optional) Create a virtual enviourment. Refer this tutorial to learn how to create a virtual enviourment: 'https://www.youtube.com/watch?v=APOPm01BVrk' If you create a           virtual enviourment, make sure it is activated and you execute all commands from within the virtual enviournment. Skip this step if you are unsure about how it works.
+3. (Optional) Create a virtual enviourment. Refer this tutorial to learn how to create a virtual enviourment: https://www.youtube.com/watch?v=APOPm01BVrk  If you create a           virtual enviourment, make sure it is activated and you execute all commands from within the virtual enviournment. Skip this step if you are unsure about how it works.
   
 4. Install required packages:
 
-       'pip install -r req.txt'
+       pip install -r req.txt
 
-5. Navigate to '\plant_diseases' directory and run the application with the following command:
+5. Navigate to `\plant_diseases` directory and run the application with the following command:
 
-       'py manage.py runserver'
+       py manage.py runserver
 
 6. A link will appear in your command prompt. Copy this link and paste it in your browser, press enter.
 
@@ -52,11 +52,6 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
 ![](screenshots/home.png "Home Page")
 
-
-![](screenshots/choose_img.png "Choose Image")
-
-
-![](screenshots/Output_img.png "Output of running manage.py")
 
        
        
