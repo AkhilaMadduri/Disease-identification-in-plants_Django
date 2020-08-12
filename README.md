@@ -7,4 +7,13 @@ diseases, large amount of crop production is decreased. There are various types 
 
 <br></br>
 For this a farmer takes the image of a leaf and uploads it in a website that we have developed. Now the patterns of the uploaded image are compared with patterns available in dataset, which is almost accurate, resulting in identification of the plant disease. At starting stage, the disease can be easily identified.
+<br></br>
+<h2><b> Requirements </b></h2>
+1.Python
+2.Tensorflow
+3.Keras
+4.Django
+5.PIL
+6.Numpy
+  
 
