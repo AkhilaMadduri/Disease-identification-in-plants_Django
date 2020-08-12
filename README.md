@@ -10,9 +10,7 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 <br></br>
 <h2><b> Requirements </b></h2>
 
-1.Python <br></br>
-2.Tensorflow <br></br>
-3.Keras <br></br>
+1.Python <br></br> 2.Tensorflow <br></br> 3.Keras <br></br>
 4.Django <br></br>
 5.PIL <br></br>
 6.Numpy <br></br>
