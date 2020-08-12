@@ -29,7 +29,7 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
        'git clone https://github.com/AkhilaMadduri/Plant_disease_detection_django.git'
 
-2. Download model from the following link and paste it in the '\plant_diseases\plant_app folder':
+2. Download model from the following link and paste it in the '\plant_diseases\plant_app' folder:
 
        'https://drive.google.com/file/d/1IJ_9kHXTRpW744ymq1V5L0pkv1TMJdwh/view?usp=sharing'
 
@@ -37,14 +37,25 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
   
 4. Install required packages:
 
-    'pip install -r req.txt'
+       'pip install -r req.txt'
 
 5. Navigate to '\plant_diseases' directory and run the application with the following command:
 
-    'py manage.py runserver'
+       'py manage.py runserver'
 
 6. A link will appear in your command prompt. Copy this link and paste it in your browser, press enter.
 
 7. Your application is running. Choose any infected image to get results.
+
+<h1><b> Screenshots </b></h1>
+
+![](screenshots/home.png "Home Page")
+
+![](screenshots/choose_img.png "Choose Image")
+
+![](screenshots/Output_img.png "Output of running manage.py")
+
+       
+       
 
 
