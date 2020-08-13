@@ -1,4 +1,4 @@
-# Plant_disease_detection_django
+# Disease-Identification-in-plants_django
 
 <h2> <b> Abstract: </b> </h2>
 
