@@ -1,4 +1,4 @@
-# Disease-Identification-in-plants_django
+# Disease-identification-in-plants_Django
 
 <h2> <b> Abstract: </b> </h2>
 
