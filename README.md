@@ -28,7 +28,7 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
        git clone https://github.com/AkhilaMadduri/Disease-identification-in-plants_Django.git
 
-2. Download model from the following link and paste it in the `\plant_diseases\plant_app` folder:
+2. Download model from the following link and paste it in the `\plant_diseases\plant_app` folder: 
 
        https://drive.google.com/file/d/1IJ_9kHXTRpW744ymq1V5L0pkv1TMJdwh/view?usp=sharing
 
