@@ -9,17 +9,17 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
 <h2><b> Requirements: </b></h2>
 
-1. Python  
+* Python  
 
-2. Tensorflow
+* Tensorflow
 
-3. Keras
+* Keras
 
-4. Django 
+* Django 
 
-5. PIL 
+* PIL 
 
-6. Numpy 
+* Numpy 
 
 <h2><B> Steps to run the Application: </b></h2>
 <h4> <b> This application requires Python 3.6 </b> </h4>
