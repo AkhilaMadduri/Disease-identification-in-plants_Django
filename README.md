@@ -58,6 +58,7 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 ![](screenshots/Output_img.PNG "Output of running manage.py")
 
 
+
        
        
 
