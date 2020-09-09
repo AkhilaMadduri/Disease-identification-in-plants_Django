@@ -1,4 +1,4 @@
-# Disease-identification-in-plants_Django
+# Disease-identification-in-tomato-plants-Django
 
 <h2> <b> Abstract: </b> </h2>
 
@@ -26,7 +26,7 @@ For this a farmer takes the image of a leaf and uploads it in a website that we 
 
 1. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
-       git clone https://github.com/AkhilaMadduri/Disease-identification-in-plants_Django.git
+       git clone https://github.com/AkhilaMadduri/PlantDiseaseDjango.git
 
 2. Download model from the following link and paste it in the `\plant_diseases\plant_app` folder: 
 
