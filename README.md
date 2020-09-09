@@ -1,4 +1,4 @@
-# Disease-identification-in-tomato-plants-Django
+# Disease-identification-in-tomato-plant-Django
 
 <h2> <b> Abstract: </b> </h2>
 
